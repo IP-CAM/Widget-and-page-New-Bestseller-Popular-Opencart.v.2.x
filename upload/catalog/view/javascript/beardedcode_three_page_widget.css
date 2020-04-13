@@ -1,0 +1,72 @@
+.widget {
+    color: #373f50;
+    font-family: "Rubik",sans-serif;
+    font-size: 1.4rem;
+    font-weight: 400;
+    line-height: 1.5;
+    text-align: left;
+    margin-bottom: 2rem;
+}
+.widget a {
+    color: #fe696a;
+    text-decoration: none;
+    transition: color 0.25s ease-in-out;
+}
+.widget img {
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+}
+.widget h3, .widget .h3 {
+    font-size: 1.75rem;
+}
+.widget h6, .widget .h6 {
+    font-size: 1.4rem;
+}
+.widget-title {
+    margin-bottom: 1.125rem;
+    font-size: 1.0625rem;
+    font-weight: 500;
+}
+.widget-media {
+    padding: .5rem 0;
+    border-bottom: 1px solid #e3e9ef !important;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center !important;
+    align-items: center !important;
+}
+.widget-image-link {
+    margin-right: .5rem !important;
+    display: block;
+    flex: 0 0 auto;
+}
+.widget-product-title {
+    margin-bottom: .25rem;
+    font-size: 1rem;
+    font-weight: 500;
+}
+.widget-product-title>a {
+    color: #373f50;
+}
+.widget-product-title:hover>a {
+    color: #fe696a;
+}
+.widget-product-meta {
+    font-size: 1.4rem;
+}
+.widget-text-accent {
+    color: #4e54c8 !important;
+}
+.widget-text-muted {
+    font-size: .75rem !important;
+    color: #7d879c !important;
+}
+.widget-further-link {
+    font-size: 1.6rem;
+}
+.widget-further-link svg {
+    width: 1.2rem;
+    height: 1.2rem;
+    vertical-align: baseline;
+}

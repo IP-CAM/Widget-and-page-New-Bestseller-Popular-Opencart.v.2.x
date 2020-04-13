@@ -1,0 +1,295 @@
+{
+  "widget": [
+    {
+      "name": "bestseller_title",
+      "field": "input",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "name": "bestseller_button",
+      "field": "input",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "name": "new_arrival_title",
+      "field": "input",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "name": "new_arrival_button",
+      "field": "input",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "name": "top_rated_title",
+      "field": "input",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "name": "top_rated_button",
+      "field": "input",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "name": "width",
+      "field": "input",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "name": "height",
+      "field": "input",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "name": "limit",
+      "field": "input",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "name": "ajax",
+      "field": "select",
+      "value": "0",
+      "options": [
+        {
+          "value": "0",
+          "name": "No"
+        },
+        {
+          "value": "1",
+          "name": "Yes"
+        }
+      ]
+    },
+    {
+      "name": "timer",
+      "field": "input",
+      "type": "number",
+      "props": [
+        {
+          "name": "min",
+          "value": "0"
+        }
+      ],
+      "value": "0"
+    },
+    {
+      "name": "style_on",
+      "field": "select",
+      "value": "0",
+      "options": [
+        {
+          "value": "0",
+          "name": "Off"
+        },
+        {
+          "value": "1",
+          "name": "On"
+        }
+      ]
+    },
+    {
+      "name": "status",
+      "field": "select",
+      "value": "0",
+      "options": [
+        {
+          "value": "0",
+          "name": "Off"
+        },
+        {
+          "value": "1",
+          "name": "On"
+        }
+      ]
+    }
+  ],
+  "page_bestseller": [
+    {
+      "name": "name",
+      "field": "input",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "name": "h1",
+      "field": "input",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "name": "description",
+      "field": "textarea",
+      "type": "text",
+      "class": "summernote",
+      "value": ""
+    },
+    {
+      "name": "meta_title",
+      "field": "input",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "name": "meta_description",
+      "field": "textarea",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "name": "script",
+      "field": "textarea",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "name": "style",
+      "field": "textarea",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "name": "status",
+      "field": "select",
+      "value": "0",
+      "options": [
+        {
+          "value": "0",
+          "name": "Off"
+        },
+        {
+          "value": "1",
+          "name": "On"
+        }
+      ]
+    }
+  ],
+  "page_new_arrival": [
+    {
+      "name": "name",
+      "field": "input",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "name": "h1",
+      "field": "input",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "name": "description",
+      "field": "textarea",
+      "type": "text",
+      "class": "summernote",
+      "value": ""
+    },
+    {
+      "name": "meta_title",
+      "field": "input",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "name": "meta_description",
+      "field": "textarea",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "name": "script",
+      "field": "textarea",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "name": "style",
+      "field": "textarea",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "name": "status",
+      "field": "select",
+      "value": "0",
+      "options": [
+        {
+          "value": "0",
+          "name": "Off"
+        },
+        {
+          "value": "1",
+          "name": "On"
+        }
+      ]
+    }
+  ],
+  "page_top_rated": [
+    {
+      "name": "name",
+      "field": "input",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "name": "h1",
+      "field": "input",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "name": "description",
+      "field": "textarea",
+      "class": "summernote",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "name": "meta_title",
+      "field": "input",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "name": "meta_description",
+      "field": "textarea",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "name": "script",
+      "field": "textarea",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "name": "style",
+      "field": "textarea",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "name": "status",
+      "field": "select",
+      "value": "0",
+      "options": [
+        {
+          "value": "0",
+          "name": "Off"
+        },
+        {
+          "value": "1",
+          "name": "On"
+        }
+      ]
+    }
+  ]
+}
