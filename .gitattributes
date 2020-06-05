@@ -1,1 +1,3 @@
 *.json linguist-language=JSON
+upload/admin/extension/module/* linguist-generated=true
+upload/catalog/controller/extension/module/* linguist-generated=true
